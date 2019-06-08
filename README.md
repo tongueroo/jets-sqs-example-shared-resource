@@ -1,11 +1,3 @@
-# Jets Project
+# Jets Project with SQS Shared Resource Example
 
-This README would normally document whatever steps are necessary to get the application up and running.
-
-Things you might want to cover:
-
-* Dependencies
-* Configuration
-* Database setup
-* How to run the test suite
-* Deployment instructions
+SQS Shared Resource Example and with Lookup Method. Answers Jets community question [SQS queues and messages](https://community.rubyonjets.com/t/sqs-queues-and-messages/187/3)
